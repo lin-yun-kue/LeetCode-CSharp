@@ -1,0 +1,12 @@
+D:\PersonalProject\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.exe
+D:\PersonalProject\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.deps.json
+D:\PersonalProject\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.runtimeconfig.json
+D:\PersonalProject\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.runtimeconfig.dev.json
+D:\PersonalProject\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.dll
+D:\PersonalProject\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.pdb
+D:\PersonalProject\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.csprojAssemblyReference.cache
+D:\PersonalProject\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.csproj.CoreCompileInputs.cache
+D:\PersonalProject\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.AssemblyInfoInputs.cache
+D:\PersonalProject\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.AssemblyInfo.cs
+D:\PersonalProject\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.dll
+D:\PersonalProject\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.pdb
