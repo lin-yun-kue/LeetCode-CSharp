@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance.csproj": {}
+    "D:\\PersonalProject\\LeetCode-CSharp\\JewelStone\\JewelStone.csproj": {}
   },
   "projects": {
-    "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance.csproj": {
+    "D:\\PersonalProject\\LeetCode-CSharp\\JewelStone\\JewelStone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance.csproj",
-        "projectName": "StringBalance",
-        "projectPath": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance.csproj",
+        "projectUniqueName": "D:\\PersonalProject\\LeetCode-CSharp\\JewelStone\\JewelStone.csproj",
+        "projectName": "JewelStone",
+        "projectPath": "D:\\PersonalProject\\LeetCode-CSharp\\JewelStone\\JewelStone.csproj",
         "packagesPath": "C:\\Users\\kyle.lin\\.nuget\\packages\\",
-        "outputPath": "D:\\PersonalProject\\LeetCode-CSharp\\obj\\",
+        "outputPath": "D:\\PersonalProject\\LeetCode-CSharp\\JewelStone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

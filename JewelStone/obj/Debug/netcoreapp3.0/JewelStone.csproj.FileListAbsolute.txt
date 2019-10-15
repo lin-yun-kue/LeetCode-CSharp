@@ -1,0 +1,12 @@
+D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.csprojAssemblyReference.cache
+D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.csproj.CoreCompileInputs.cache
+D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\JewelStone\bin\Debug\netcoreapp3.0\JewelStone.exe
+D:\PersonalProject\LeetCode-CSharp\JewelStone\bin\Debug\netcoreapp3.0\JewelStone.deps.json
+D:\PersonalProject\LeetCode-CSharp\JewelStone\bin\Debug\netcoreapp3.0\JewelStone.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\JewelStone\bin\Debug\netcoreapp3.0\JewelStone.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\JewelStone\bin\Debug\netcoreapp3.0\JewelStone.dll
+D:\PersonalProject\LeetCode-CSharp\JewelStone\bin\Debug\netcoreapp3.0\JewelStone.pdb
+D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.dll
+D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.pdb
