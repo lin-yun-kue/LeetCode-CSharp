@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance.csproj",
+      "projectUniqueName": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance\\StringBalance.csproj",
       "projectName": "StringBalance",
-      "projectPath": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance.csproj",
+      "projectPath": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance\\StringBalance.csproj",
       "packagesPath": "C:\\Users\\kyle.lin\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProject\\LeetCode-CSharp\\obj\\",
+      "outputPath": "D:\\PersonalProject\\LeetCode-CSharp\\StringBalance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,4 +1,3 @@
-D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.csprojAssemblyReference.cache
 D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.csproj.CoreCompileInputs.cache
 D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\JewelStone\obj\Debug\netcoreapp3.0\JewelStone.AssemblyInfo.cs
