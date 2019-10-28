@@ -3,6 +3,9 @@ using System.Linq;
 
 namespace ToLowerCase
 {
+    /// <summary>
+    /// Covert string to lower case
+    /// </summary>
     class Program
     {
         static void Main(string[] args)

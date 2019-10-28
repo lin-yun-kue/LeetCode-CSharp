@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringBalance", "StringBala
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToLowerCase", "ToLowerCase\ToLowerCase.csproj", "{2AE5A299-0ECE-4FA1-8927-AA767D756356}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOuterParentheses", "RemoveOuterParentheses\RemoveOuterParentheses.csproj", "{354ACE77-8725-4F8B-ACF4-3A2C769FB53E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{2AE5A299-0ECE-4FA1-8927-AA767D756356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE5A299-0ECE-4FA1-8927-AA767D756356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE5A299-0ECE-4FA1-8927-AA767D756356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{354ACE77-8725-4F8B-ACF4-3A2C769FB53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{354ACE77-8725-4F8B-ACF4-3A2C769FB53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{354ACE77-8725-4F8B-ACF4-3A2C769FB53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{354ACE77-8725-4F8B-ACF4-3A2C769FB53E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
