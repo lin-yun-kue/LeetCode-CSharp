@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueOccurrences", "Unique
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRepeatedElementIn2NArrary", "NRepeatedElementIn2NArrary\NRepeatedElementIn2NArrary.csproj", "{23E1B898-C168-43E6-A81F-62AF7826F489}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JudgeCirlcle", "JudgeCirlcle\JudgeCirlcle.csproj", "{CC30481D-C3F9-43CC-B61C-37C808761747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{23E1B898-C168-43E6-A81F-62AF7826F489}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23E1B898-C168-43E6-A81F-62AF7826F489}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23E1B898-C168-43E6-A81F-62AF7826F489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC30481D-C3F9-43CC-B61C-37C808761747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC30481D-C3F9-43CC-B61C-37C808761747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC30481D-C3F9-43CC-B61C-37C808761747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC30481D-C3F9-43CC-B61C-37C808761747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
