@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace JudgeCirlcle
 {
@@ -73,6 +74,11 @@ namespace JudgeCirlcle
                     return true;
                 else
                     return false;
+            }
+
+            public bool JudgeCircle2(string moves)
+            {
+                return moves.Count(x => x == 'R') == moves.Count(x => x == 'L') && moves.Count(x => x == 'U') == moves.Count(x => x == 'D');
             }
         }
     }
