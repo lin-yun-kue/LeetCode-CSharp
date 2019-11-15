@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PersonalProject\\LeetCode-CSharp\\SortArrayByParity\\SortArrayByParity.csproj",
-      "projectName": "SortArrayByParity",
-      "projectPath": "D:\\PersonalProject\\LeetCode-CSharp\\SortArrayByParity\\SortArrayByParity.csproj",
+      "projectUniqueName": "D:\\PersonalProject\\LeetCode-CSharp\\MergeBinaryTree\\MergeBinaryTree.csproj",
+      "projectName": "MergeBinaryTree",
+      "projectPath": "D:\\PersonalProject\\LeetCode-CSharp\\MergeBinaryTree\\MergeBinaryTree.csproj",
       "packagesPath": "C:\\Users\\kyle.lin\\.nuget\\packages\\",
-      "outputPath": "D:\\PersonalProject\\LeetCode-CSharp\\SortArrayByParity\\obj\\",
+      "outputPath": "D:\\PersonalProject\\LeetCode-CSharp\\MergeBinaryTree\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

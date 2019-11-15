@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NRepeatedElementIn2NArrary"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JudgeCirlcle", "JudgeCirlcle\JudgeCirlcle.csproj", "{CC30481D-C3F9-43CC-B61C-37C808761747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeBinaryTree", "MergeBinaryTree\MergeBinaryTree.csproj", "{0F32C1E8-A0C1-427A-8A7A-05061987EF65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{CC30481D-C3F9-43CC-B61C-37C808761747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC30481D-C3F9-43CC-B61C-37C808761747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC30481D-C3F9-43CC-B61C-37C808761747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F32C1E8-A0C1-427A-8A7A-05061987EF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F32C1E8-A0C1-427A-8A7A-05061987EF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F32C1E8-A0C1-427A-8A7A-05061987EF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F32C1E8-A0C1-427A-8A7A-05061987EF65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
