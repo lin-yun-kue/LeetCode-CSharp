@@ -24,7 +24,7 @@ namespace SelfDividingNumber
             var left = 1;
             var right = 22;
             var solution = new Solution();
-            var result = solution.SelfDividingNumbers(left, right);
+            var result = solution.SelfDividingNumbers1(left, right);
             foreach(var item in result)
             {
                 Console.WriteLine(item);
@@ -38,27 +38,14 @@ namespace SelfDividingNumber
                 var result = new List<int>();
                 for(var i = left; i <= right; i++)
                 {
-                    if (i < 10)
-                    {
-                        result.Add(i);
-                        continue;
-                    }
-                    var arr = i.ToString().ToCharArray();
-                    
                     var isSelfDivide = true;
-                    foreach(var n in arr)
+                    foreach(var n in i.ToString())
                     {
-                        //if(n == '0')
-                        //{
-                        //    isSelfDivide = false;
-                        //    break;
-                        //}
-                        //if (i % int.Parse(n.ToString()) != 0)
-                        //{
-                        //    isSelfDivide = false;
-                        //    break;
-                        //}
-
+                        if(n == '0' || i % (n - '0') != 0)
+                        {
+                            isSelfDivide = false;
+                            break;
+                        }
 
                     }
                     if (isSelfDivide)
@@ -67,6 +54,31 @@ namespace SelfDividingNumber
                     }
                 }
                 return result;
+            }
+
+            public IList<int> SelfDividingNumbers1(int left, int right)
+            {
+                var result = new List<int>();
+                for(var i = left; i <= right; i++)
+                {
+                    int currentDigit = 0;
+                    int tempNum = i;
+                    bool isSelfDivide = true;
+                    while(tempNum > 0)
+                    {
+                        currentDigit = tempNum % 10;
+                        if(currentDigit == 0 || i % currentDigit != 0)
+                        {
+                            isSelfDivide = false;
+                            break;
+                        }
+                        tempNum /= 10;
+                    }
+                    if (isSelfDivide)
+                        result.Add(i);
+                }
+                return result;
+
             }
         }
     }
