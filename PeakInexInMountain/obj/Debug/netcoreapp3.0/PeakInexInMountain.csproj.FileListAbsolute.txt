@@ -1,0 +1,10 @@
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.exe
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.deps.json
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.dll
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.pdb
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.dll
+D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.pdb
