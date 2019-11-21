@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HammingDistance", "HammingD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakInexInMountain", "PeakInexInMountain\PeakInexInMountain.csproj", "{4B321D6A-930B-49B5-8631-29C03FD392C6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPairSum", "ArrayPairSum\ArrayPairSum.csproj", "{FE851FE5-E7B5-4346-9E18-92E834BD3C8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{4B321D6A-930B-49B5-8631-29C03FD392C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B321D6A-930B-49B5-8631-29C03FD392C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B321D6A-930B-49B5-8631-29C03FD392C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE851FE5-E7B5-4346-9E18-92E834BD3C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE851FE5-E7B5-4346-9E18-92E834BD3C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE851FE5-E7B5-4346-9E18-92E834BD3C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE851FE5-E7B5-4346-9E18-92E834BD3C8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
