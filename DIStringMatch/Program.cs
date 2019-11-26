@@ -23,12 +23,13 @@ namespace DIStringMatch
         static void Main(string[] args)
         {
             var input = "IDID";
+            //var input = "III";
             var solution = new Solution();
-            var result = solution.DiStringMatch(input);
-            foreach(var item in result)
+            var result = solution.DiStringMatch1(input);
+            foreach (var item in result)
             {
                 Console.WriteLine(item);
-            } 
+            }
         }
     }
 
@@ -36,35 +37,46 @@ namespace DIStringMatch
     {
         public int[] DiStringMatch(string S)
         {
+            var N = S.Length;
             var result = new int[S.Length + 1];
             var low = 0;
-            var hight = S.Length;
+            var hight = N;
 
-            for(var i = 0; i < S.Length; i++)
+            for (var i = 0; i < N; i++)
             {
-                if(S[i] == 'I')
+                if (S[i] == 'I')
                 {
-                    if(i == 0)
-                    {
-                        result[i] = low;
-                        low++;
-                    }
-                    result[i+1] = hight;
-                    hight--;
+                    result[i] = low;
+                    low++;
                 }
                 else
                 {
-                    if(i == 0)
-                    {
-                        result[i] = hight;
-                        hight--;
-                    }
-                    result[i + 1] = low;
-                    low++;
+                    result[i] = hight;
+                    hight--;
+
                 }
             }
+            result[N] = low;
 
             return result;
+        }
+
+
+        public int[] DiStringMatch1(string S)
+        {
+            var N = S.Length;
+            var arr = new int[N + 1];
+            var num = 0;
+            for (int i = 0; i < N; i++)
+                if (S[i] == 'I') 
+                    arr[i] = num++;
+
+            arr[N] = num++;
+
+            for (int i = N - 1; i >= 0; i--) 
+                if (S[i] == 'D') 
+                    arr[i] = num++;
+            return arr;
         }
     }
 }
