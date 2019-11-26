@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIStringMatch", "DIStringMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInBST", "SearchInBST\SearchInBST.csproj", "{AA076A63-6112-4BB5-8F76-FBFFE4DD9915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted", "DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted.csproj", "{1E62FB39-5E11-449A-9CDA-1067E0419A47}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{AA076A63-6112-4BB5-8F76-FBFFE4DD9915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA076A63-6112-4BB5-8F76-FBFFE4DD9915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA076A63-6112-4BB5-8F76-FBFFE4DD9915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

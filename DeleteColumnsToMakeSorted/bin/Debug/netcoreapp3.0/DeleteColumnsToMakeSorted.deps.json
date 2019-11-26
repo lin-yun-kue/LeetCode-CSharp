@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "DeleteColumnsToMakeSorted/1.0.0": {
+        "runtime": {
+          "DeleteColumnsToMakeSorted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeleteColumnsToMakeSorted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
