@@ -25,7 +25,7 @@ namespace DIStringMatch
             var input = "IDID";
             //var input = "III";
             var solution = new Solution();
-            var result = solution.DiStringMatch1(input);
+            var result = solution.DiStringMatch(input);
             foreach (var item in result)
             {
                 Console.WriteLine(item);
@@ -46,14 +46,11 @@ namespace DIStringMatch
             {
                 if (S[i] == 'I')
                 {
-                    result[i] = low;
-                    low++;
+                    result[i] = low++;
                 }
                 else
                 {
-                    result[i] = hight;
-                    hight--;
-
+                    result[i] = hight--;
                 }
             }
             result[N] = low;
