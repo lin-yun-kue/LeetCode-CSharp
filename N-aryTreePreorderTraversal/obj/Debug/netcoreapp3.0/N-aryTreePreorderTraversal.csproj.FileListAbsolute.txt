@@ -1,0 +1,11 @@
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.exe
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.deps.json
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.dll
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.pdb
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.csprojAssemblyReference.cache
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.dll
+D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.pdb

@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInBST", "SearchInBST\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeleteColumnsToMakeSorted", "DeleteColumnsToMakeSorted\DeleteColumnsToMakeSorted.csproj", "{1E62FB39-5E11-449A-9CDA-1067E0419A47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-aryTreePreorderTraversal", "N-aryTreePreorderTraversal\N-aryTreePreorderTraversal.csproj", "{7B097CA6-4223-410D-928F-37F8C9A6D61C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E62FB39-5E11-449A-9CDA-1067E0419A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B097CA6-4223-410D-928F-37F8C9A6D61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B097CA6-4223-410D-928F-37F8C9A6D61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B097CA6-4223-410D-928F-37F8C9A6D61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B097CA6-4223-410D-928F-37F8C9A6D61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
