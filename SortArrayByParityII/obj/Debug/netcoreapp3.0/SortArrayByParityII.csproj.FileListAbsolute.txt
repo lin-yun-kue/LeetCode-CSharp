@@ -1,0 +1,11 @@
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\bin\Debug\netcoreapp3.0\SortArrayByParityII.exe
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\bin\Debug\netcoreapp3.0\SortArrayByParityII.deps.json
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\bin\Debug\netcoreapp3.0\SortArrayByParityII.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\bin\Debug\netcoreapp3.0\SortArrayByParityII.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\bin\Debug\netcoreapp3.0\SortArrayByParityII.dll
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\bin\Debug\netcoreapp3.0\SortArrayByParityII.pdb
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\obj\Debug\netcoreapp3.0\SortArrayByParityII.csprojAssemblyReference.cache
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\obj\Debug\netcoreapp3.0\SortArrayByParityII.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\obj\Debug\netcoreapp3.0\SortArrayByParityII.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\obj\Debug\netcoreapp3.0\SortArrayByParityII.dll
+D:\PersonalProject\LeetCode-CSharp\SortArrayByParityII\obj\Debug\netcoreapp3.0\SortArrayByParityII.pdb
