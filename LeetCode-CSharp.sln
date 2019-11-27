@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses", "Uni
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParityII", "SortArrayByParityII\SortArrayByParityII.csproj", "{DEBC4B97-D666-47DF-8F63-1104CECF48E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubdomainVisitCount", "SubdomainVisitCount\SubdomainVisitCount.csproj", "{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{DEBC4B97-D666-47DF-8F63-1104CECF48E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEBC4B97-D666-47DF-8F63-1104CECF48E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEBC4B97-D666-47DF-8F63-1104CECF48E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
