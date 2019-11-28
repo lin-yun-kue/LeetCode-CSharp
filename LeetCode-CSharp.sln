@@ -49,13 +49,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-aryTreePreorderTraversal"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-ary TreePostorderTraversal", "N-ary TreePostorderTraversal\N-ary TreePostorderTraversal.csproj", "{B37E4276-2E54-4168-B59A-ABC4A2B847B6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeightChecker", "HeightChecker\HeightChecker.csproj", "{FFEC5D4A-5FEA-4163-90D2-64AA648C9F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HeightChecker", "HeightChecker\HeightChecker.csproj", "{FFEC5D4A-5FEA-4163-90D2-64AA648C9F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueEmailAddresses", "UniqueEmailAddresses\UniqueEmailAddresses.csproj", "{BE09D3B5-6E1D-472C-BAA3-C86F2920186F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueEmailAddresses", "UniqueEmailAddresses\UniqueEmailAddresses.csproj", "{BE09D3B5-6E1D-472C-BAA3-C86F2920186F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrayByParityII", "SortArrayByParityII\SortArrayByParityII.csproj", "{DEBC4B97-D666-47DF-8F63-1104CECF48E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortArrayByParityII", "SortArrayByParityII\SortArrayByParityII.csproj", "{DEBC4B97-D666-47DF-8F63-1104CECF48E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubdomainVisitCount", "SubdomainVisitCount\SubdomainVisitCount.csproj", "{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubdomainVisitCount", "SubdomainVisitCount\SubdomainVisitCount.csproj", "{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnivaluedBinaryTree", "UnivaluedBinaryTree\UnivaluedBinaryTree.csproj", "{76B86099-B177-4468-A5B2-911C34B2191C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFB6B6A5-78F7-44AD-A8D1-20492C6CDCB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76B86099-B177-4468-A5B2-911C34B2191C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76B86099-B177-4468-A5B2-911C34B2191C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76B86099-B177-4468-A5B2-911C34B2191C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76B86099-B177-4468-A5B2-911C34B2191C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
