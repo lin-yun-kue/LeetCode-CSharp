@@ -1,0 +1,11 @@
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.exe
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.deps.json
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.dll
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.pdb
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.dll
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.pdb
+D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.csprojAssemblyReference.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Projection Area of 3D Shapes/1.0.0": {
+        "runtime": {
+          "Projection Area of 3D Shapes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projection Area of 3D Shapes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
