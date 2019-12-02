@@ -8,4 +8,3 @@ D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\U
 D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.dll
 D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.pdb
-D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.csprojAssemblyReference.cache

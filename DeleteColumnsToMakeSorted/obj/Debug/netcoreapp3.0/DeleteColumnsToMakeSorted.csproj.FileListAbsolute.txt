@@ -4,7 +4,6 @@ D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\bin\Debug\netcoreap
 D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\bin\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.runtimeconfig.dev.json
 D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\bin\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.dll
 D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\bin\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.pdb
-D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\obj\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.csprojAssemblyReference.cache
 D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\obj\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\obj\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\DeleteColumnsToMakeSorted\obj\Debug\netcoreapp3.0\DeleteColumnsToMakeSorted.dll

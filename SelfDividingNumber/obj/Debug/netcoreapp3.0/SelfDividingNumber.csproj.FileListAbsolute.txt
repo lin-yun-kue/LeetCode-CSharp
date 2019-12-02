@@ -4,7 +4,6 @@ D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\bin\Debug\netcoreapp3.0\Se
 D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\bin\Debug\netcoreapp3.0\SelfDividingNumber.runtimeconfig.dev.json
 D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\bin\Debug\netcoreapp3.0\SelfDividingNumber.dll
 D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\bin\Debug\netcoreapp3.0\SelfDividingNumber.pdb
-D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\obj\Debug\netcoreapp3.0\SelfDividingNumber.csprojAssemblyReference.cache
 D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\obj\Debug\netcoreapp3.0\SelfDividingNumber.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\obj\Debug\netcoreapp3.0\SelfDividingNumber.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\SelfDividingNumber\obj\Debug\netcoreapp3.0\SelfDividingNumber.dll

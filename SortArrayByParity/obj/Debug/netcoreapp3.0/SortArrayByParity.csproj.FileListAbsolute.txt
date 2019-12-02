@@ -4,8 +4,6 @@ D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\bin\Debug\netcoreapp3.0\Sor
 D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\bin\Debug\netcoreapp3.0\SortArrayByParity.runtimeconfig.dev.json
 D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\bin\Debug\netcoreapp3.0\SortArrayByParity.dll
 D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\bin\Debug\netcoreapp3.0\SortArrayByParity.pdb
-D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\obj\Debug\netcoreapp3.0\SortArrayByParity.csprojAssemblyReference.cache
-D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\obj\Debug\netcoreapp3.0\SortArrayByParity.csproj.CoreCompileInputs.cache
 D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\obj\Debug\netcoreapp3.0\SortArrayByParity.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\obj\Debug\netcoreapp3.0\SortArrayByParity.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\SortArrayByParity\obj\Debug\netcoreapp3.0\SortArrayByParity.dll

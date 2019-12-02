@@ -8,4 +8,3 @@ D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcor
 D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\bin\Debug\netcoreapp3.0\Projection Area of 3D Shapes.pdb
 D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.dll
 D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.pdb
-D:\PersonalProject\LeetCode-CSharp\Projection Area of 3D Shapes\obj\Debug\netcoreapp3.0\Projection Area of 3D Shapes.csprojAssemblyReference.cache

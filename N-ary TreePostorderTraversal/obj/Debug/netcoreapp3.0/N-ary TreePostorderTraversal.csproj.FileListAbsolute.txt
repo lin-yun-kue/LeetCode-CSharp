@@ -4,7 +4,6 @@ D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\bin\Debug\netcor
 D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\bin\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.runtimeconfig.dev.json
 D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\bin\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.dll
 D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\bin\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.pdb
-D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\obj\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.csprojAssemblyReference.cache
 D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\obj\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\obj\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\N-ary TreePostorderTraversal\obj\Debug\netcoreapp3.0\N-ary TreePostorderTraversal.dll

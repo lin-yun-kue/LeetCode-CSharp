@@ -4,9 +4,7 @@ D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.runtimeconfig.dev.json
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.dll
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.pdb
-D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.csproj.CoreCompileInputs.cache
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.dll
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.pdb
-D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.csprojAssemblyReference.cache

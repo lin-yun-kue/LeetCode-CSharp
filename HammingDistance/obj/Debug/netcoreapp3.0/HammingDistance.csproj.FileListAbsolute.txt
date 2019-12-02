@@ -8,4 +8,3 @@ D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\Hammi
 D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.dll
 D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.pdb
-D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.csprojAssemblyReference.cache
