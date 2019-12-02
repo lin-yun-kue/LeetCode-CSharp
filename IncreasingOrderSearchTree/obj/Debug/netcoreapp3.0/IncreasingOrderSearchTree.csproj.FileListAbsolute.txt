@@ -1,0 +1,11 @@
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\bin\Debug\netcoreapp3.0\IncreasingOrderSearchTree.exe
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\bin\Debug\netcoreapp3.0\IncreasingOrderSearchTree.deps.json
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\bin\Debug\netcoreapp3.0\IncreasingOrderSearchTree.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\bin\Debug\netcoreapp3.0\IncreasingOrderSearchTree.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\bin\Debug\netcoreapp3.0\IncreasingOrderSearchTree.dll
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\bin\Debug\netcoreapp3.0\IncreasingOrderSearchTree.pdb
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\obj\Debug\netcoreapp3.0\IncreasingOrderSearchTree.csprojAssemblyReference.cache
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\obj\Debug\netcoreapp3.0\IncreasingOrderSearchTree.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\obj\Debug\netcoreapp3.0\IncreasingOrderSearchTree.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\obj\Debug\netcoreapp3.0\IncreasingOrderSearchTree.dll
+D:\PersonalProject\LeetCode-CSharp\IncreasingOrderSearchTree\obj\Debug\netcoreapp3.0\IncreasingOrderSearchTree.pdb
