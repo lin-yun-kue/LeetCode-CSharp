@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace FindCommonCharacters
 {
@@ -19,7 +20,7 @@ namespace FindCommonCharacters
         {
             var input = new string[] { "bella", "label", "roller" };
             var solution = new Solution();
-            var result = solution.CommonChars(input);
+            var result = solution.CommonChars1(input);
             foreach(var item in result)
             {
                 Console.WriteLine(item);
@@ -76,7 +77,50 @@ namespace FindCommonCharacters
                     }
                 }
             }
+            
             return result;
         }
+
+        public IList<string> CommonChars1(string[] A)
+        {
+            var count = new int[26];
+            foreach(var c in A[0])
+            {
+                count[GetCode(c)]++;
+            }
+
+            for(var i = 1; i < A.Length; i++)
+            {
+                var tempCount = new int[26];
+                foreach(var c in A[i])
+                {
+                    var code = GetCode(c);
+                    if(count[code] > tempCount[code])
+                    {
+                        tempCount[code]++;
+                    }
+                }
+                for(var j = 0; j < count.Length; j++)
+                {
+                    count[j] = Math.Min(count[j], tempCount[j]);
+                }
+            }
+            var result = new List<string>();
+            for (var i = 0; i < count.Length; i++)
+            {
+                while (count[i] > 0)
+                {
+                    count[i]--;
+                    result.Add(Convert.ToString((char)('a' + i)));
+                }
+            }
+            return result;
+        }
+
+        public int GetCode(char c)
+        {
+            return c - 'a';
+        }
+
     }
 }
