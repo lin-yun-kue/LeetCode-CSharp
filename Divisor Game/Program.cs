@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Divisor_Game
+namespace ShortestDistancetoaCharacter
 {
     class Program
     {

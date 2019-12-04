@@ -1,0 +1,11 @@
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\bin\Debug\netcoreapp3.0\Shortest Distance to a Character.exe
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\bin\Debug\netcoreapp3.0\Shortest Distance to a Character.deps.json
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\bin\Debug\netcoreapp3.0\Shortest Distance to a Character.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\bin\Debug\netcoreapp3.0\Shortest Distance to a Character.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\bin\Debug\netcoreapp3.0\Shortest Distance to a Character.dll
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\bin\Debug\netcoreapp3.0\Shortest Distance to a Character.pdb
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\obj\Debug\netcoreapp3.0\Shortest Distance to a Character.csprojAssemblyReference.cache
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\obj\Debug\netcoreapp3.0\Shortest Distance to a Character.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\obj\Debug\netcoreapp3.0\Shortest Distance to a Character.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\obj\Debug\netcoreapp3.0\Shortest Distance to a Character.dll
+D:\PersonalProject\LeetCode-CSharp\Divisor_Game\obj\Debug\netcoreapp3.0\Shortest Distance to a Character.pdb

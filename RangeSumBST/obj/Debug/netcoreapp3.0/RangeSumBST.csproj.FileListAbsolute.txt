@@ -8,4 +8,3 @@ D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumB
 D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.dll
 D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.pdb
-D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.csprojAssemblyReference.cache

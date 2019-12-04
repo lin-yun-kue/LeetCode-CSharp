@@ -4,7 +4,6 @@ D:\PersonalProject\LeetCode-CSharp\Palindrome\bin\Debug\netcoreapp3.0\Palindrome
 D:\PersonalProject\LeetCode-CSharp\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.runtimeconfig.dev.json
 D:\PersonalProject\LeetCode-CSharp\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.dll
 D:\PersonalProject\LeetCode-CSharp\Palindrome\bin\Debug\netcoreapp3.0\Palindrome.pdb
-D:\PersonalProject\LeetCode-CSharp\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.csprojAssemblyReference.cache
 D:\PersonalProject\LeetCode-CSharp\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.AssemblyInfoInputs.cache
 D:\PersonalProject\LeetCode-CSharp\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\Palindrome\obj\Debug\netcoreapp3.0\Palindrome.dll

@@ -8,3 +8,4 @@ D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInB
 D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.dll
 D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.pdb
+D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.csprojAssemblyReference.cache

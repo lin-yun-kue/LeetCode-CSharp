@@ -81,6 +81,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove All Adjacent Duplica
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisor Game", "Divisor Game\Divisor Game.csproj", "{422F0058-C373-4C13-9822-4DA1FF433F6C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Distance to a Character", "Divisor_Game\Shortest Distance to a Character.csproj", "{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{422F0058-C373-4C13-9822-4DA1FF433F6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{422F0058-C373-4C13-9822-4DA1FF433F6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{422F0058-C373-4C13-9822-4DA1FF433F6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
