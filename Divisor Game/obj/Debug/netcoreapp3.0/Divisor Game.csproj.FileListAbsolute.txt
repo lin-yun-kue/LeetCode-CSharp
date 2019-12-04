@@ -1,0 +1,11 @@
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\bin\Debug\netcoreapp3.0\Divisor Game.exe
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\bin\Debug\netcoreapp3.0\Divisor Game.deps.json
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\bin\Debug\netcoreapp3.0\Divisor Game.runtimeconfig.json
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\bin\Debug\netcoreapp3.0\Divisor Game.runtimeconfig.dev.json
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\bin\Debug\netcoreapp3.0\Divisor Game.dll
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\bin\Debug\netcoreapp3.0\Divisor Game.pdb
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\obj\Debug\netcoreapp3.0\Divisor Game.csprojAssemblyReference.cache
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\obj\Debug\netcoreapp3.0\Divisor Game.AssemblyInfoInputs.cache
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\obj\Debug\netcoreapp3.0\Divisor Game.AssemblyInfo.cs
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\obj\Debug\netcoreapp3.0\Divisor Game.dll
+D:\PersonalProject\LeetCode-CSharp\Divisor Game\obj\Debug\netcoreapp3.0\Divisor Game.pdb
