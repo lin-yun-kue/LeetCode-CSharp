@@ -79,11 +79,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Absolute Difference
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove All Adjacent Duplicates In String", "Remove All Adjacent Duplicates In String\Remove All Adjacent Duplicates In String.csproj", "{061AC9D4-0913-408A-B077-64DA604AC371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisor Game", "Divisor Game\Divisor Game.csproj", "{422F0058-C373-4C13-9822-4DA1FF433F6C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisor Game", "Divisor Game\Divisor Game.csproj", "{422F0058-C373-4C13-9822-4DA1FF433F6C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Distance to a Character", "Divisor_Game\Shortest Distance to a Character.csproj", "{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Distance to a Character", "Divisor_Game\Shortest Distance to a Character.csproj", "{557B30BD-1EF4-4E03-9345-43ABCAE4DFE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse String\Reverse String.csproj", "{B6AD0477-EC7B-4D6A-9749-19A8720F5225}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse String", "Reverse String\Reverse String.csproj", "{B6AD0477-EC7B-4D6A-9749-19A8720F5225}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Occurrences After Bigram", "Occurrences After Bigram\Occurrences After Bigram.csproj", "{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +257,10 @@ Global
 		{B6AD0477-EC7B-4D6A-9749-19A8720F5225}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6AD0477-EC7B-4D6A-9749-19A8720F5225}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6AD0477-EC7B-4D6A-9749-19A8720F5225}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
