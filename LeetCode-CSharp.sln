@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Distance to a Char
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse String", "Reverse String\Reverse String.csproj", "{B6AD0477-EC7B-4D6A-9749-19A8720F5225}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Occurrences After Bigram", "Occurrences After Bigram\Occurrences After Bigram.csproj", "{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Occurrences After Bigram", "Occurrences After Bigram\Occurrences After Bigram.csproj", "{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Binary Number in a Linked List to Integer", "Convert Binary Number in a Linked List to Integer\Convert Binary Number in a Linked List to Integer.csproj", "{5A337002-E823-4644-BBFB-5F3454E078E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{426E24B4-63A6-4E3F-BD55-A2EB982C8B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A337002-E823-4644-BBFB-5F3454E078E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A337002-E823-4644-BBFB-5F3454E078E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A337002-E823-4644-BBFB-5F3454E078E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A337002-E823-4644-BBFB-5F3454E078E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
