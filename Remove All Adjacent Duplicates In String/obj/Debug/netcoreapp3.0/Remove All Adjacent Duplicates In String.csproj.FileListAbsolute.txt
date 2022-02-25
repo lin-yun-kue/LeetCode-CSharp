@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\
 D:\PersonalProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.dll
 D:\PersonalProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.pdb
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\bin\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.exe
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\bin\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.deps.json
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\bin\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\bin\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\bin\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.dll
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\bin\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.pdb
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.dll
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.pdb
+D:\MyProject\LeetCode-CSharp\Remove All Adjacent Duplicates In String\obj\Debug\netcoreapp3.0\Remove All Adjacent Duplicates In String.genruntimeconfig.cache

@@ -9,3 +9,15 @@ D:\PersonalProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringB
 D:\PersonalProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.dll
 D:\PersonalProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.pdb
+D:\MyProject\LeetCode-CSharp\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.exe
+D:\MyProject\LeetCode-CSharp\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.deps.json
+D:\MyProject\LeetCode-CSharp\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.dll
+D:\MyProject\LeetCode-CSharp\StringBalance\bin\Debug\netcoreapp3.0\StringBalance.pdb
+D:\MyProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.dll
+D:\MyProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.pdb
+D:\MyProject\LeetCode-CSharp\StringBalance\obj\Debug\netcoreapp3.0\StringBalance.genruntimeconfig.cache

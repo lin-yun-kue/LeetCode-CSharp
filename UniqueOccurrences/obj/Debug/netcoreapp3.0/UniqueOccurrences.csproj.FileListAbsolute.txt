@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\Uni
 D:\PersonalProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.dll
 D:\PersonalProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.pdb
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\bin\Debug\netcoreapp3.0\UniqueOccurrences.exe
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\bin\Debug\netcoreapp3.0\UniqueOccurrences.deps.json
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\bin\Debug\netcoreapp3.0\UniqueOccurrences.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\bin\Debug\netcoreapp3.0\UniqueOccurrences.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\bin\Debug\netcoreapp3.0\UniqueOccurrences.dll
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\bin\Debug\netcoreapp3.0\UniqueOccurrences.pdb
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.dll
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.pdb
+D:\MyProject\LeetCode-CSharp\UniqueOccurrences\obj\Debug\netcoreapp3.0\UniqueOccurrences.genruntimeconfig.cache

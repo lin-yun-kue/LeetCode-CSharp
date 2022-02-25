@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.dll
 D:\PersonalProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.pdb
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.exe
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.deps.json
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.dll
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\bin\Debug\netcoreapp3.0\RemoveOuterParentheses.pdb
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.dll
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.pdb
+D:\MyProject\LeetCode-CSharp\RemoveOuterParentheses\obj\Debug\netcoreapp3.0\RemoveOuterParentheses.genruntimeconfig.cache

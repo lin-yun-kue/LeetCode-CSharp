@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\
 D:\PersonalProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.dll
 D:\PersonalProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.pdb
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\bin\Debug\netcoreapp3.0\SquaresOfSortedArray.exe
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\bin\Debug\netcoreapp3.0\SquaresOfSortedArray.deps.json
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\bin\Debug\netcoreapp3.0\SquaresOfSortedArray.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\bin\Debug\netcoreapp3.0\SquaresOfSortedArray.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\bin\Debug\netcoreapp3.0\SquaresOfSortedArray.dll
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\bin\Debug\netcoreapp3.0\SquaresOfSortedArray.pdb
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.dll
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.pdb
+D:\MyProject\LeetCode-CSharp\SquaresOfSortedArray\obj\Debug\netcoreapp3.0\SquaresOfSortedArray.genruntimeconfig.cache

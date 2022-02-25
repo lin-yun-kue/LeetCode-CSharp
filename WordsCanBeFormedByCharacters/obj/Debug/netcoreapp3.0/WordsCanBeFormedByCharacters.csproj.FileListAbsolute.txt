@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcor
 D:\PersonalProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.dll
 D:\PersonalProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.pdb
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\bin\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.exe
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\bin\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.deps.json
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\bin\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\bin\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\bin\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.dll
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\bin\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.pdb
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.dll
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.pdb
+D:\MyProject\LeetCode-CSharp\WordsCanBeFormedByCharacters\obj\Debug\netcoreapp3.0\WordsCanBeFormedByCharacters.genruntimeconfig.cache

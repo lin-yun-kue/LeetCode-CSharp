@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcore
 D:\PersonalProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.dll
 D:\PersonalProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.pdb
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\bin\Debug\netcoreapp3.0\Minimum Absolute Difference.exe
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\bin\Debug\netcoreapp3.0\Minimum Absolute Difference.deps.json
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\bin\Debug\netcoreapp3.0\Minimum Absolute Difference.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\bin\Debug\netcoreapp3.0\Minimum Absolute Difference.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\bin\Debug\netcoreapp3.0\Minimum Absolute Difference.dll
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\bin\Debug\netcoreapp3.0\Minimum Absolute Difference.pdb
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.dll
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.pdb
+D:\MyProject\LeetCode-CSharp\Minimum Absolute Difference\obj\Debug\netcoreapp3.0\Minimum Absolute Difference.genruntimeconfig.cache

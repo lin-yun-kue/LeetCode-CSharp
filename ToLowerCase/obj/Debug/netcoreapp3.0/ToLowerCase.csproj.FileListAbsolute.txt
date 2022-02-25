@@ -9,3 +9,16 @@ D:\PersonalProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCa
 D:\PersonalProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.dll
 D:\PersonalProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.pdb
 D:\PersonalProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\ToLowerCase\bin\Debug\netcoreapp3.0\ToLowerCase.exe
+D:\MyProject\LeetCode-CSharp\ToLowerCase\bin\Debug\netcoreapp3.0\ToLowerCase.deps.json
+D:\MyProject\LeetCode-CSharp\ToLowerCase\bin\Debug\netcoreapp3.0\ToLowerCase.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\ToLowerCase\bin\Debug\netcoreapp3.0\ToLowerCase.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\ToLowerCase\bin\Debug\netcoreapp3.0\ToLowerCase.dll
+D:\MyProject\LeetCode-CSharp\ToLowerCase\bin\Debug\netcoreapp3.0\ToLowerCase.pdb
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.dll
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.pdb
+D:\MyProject\LeetCode-CSharp\ToLowerCase\obj\Debug\netcoreapp3.0\ToLowerCase.genruntimeconfig.cache

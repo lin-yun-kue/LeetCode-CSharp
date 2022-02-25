@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\
 D:\PersonalProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.dll
 D:\PersonalProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.pdb
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\bin\Debug\netcoreapp3.0\UniqueEmailAddresses.exe
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\bin\Debug\netcoreapp3.0\UniqueEmailAddresses.deps.json
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\bin\Debug\netcoreapp3.0\UniqueEmailAddresses.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\bin\Debug\netcoreapp3.0\UniqueEmailAddresses.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\bin\Debug\netcoreapp3.0\UniqueEmailAddresses.dll
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\bin\Debug\netcoreapp3.0\UniqueEmailAddresses.pdb
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.dll
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.pdb
+D:\MyProject\LeetCode-CSharp\UniqueEmailAddresses\obj\Debug\netcoreapp3.0\UniqueEmailAddresses.genruntimeconfig.cache

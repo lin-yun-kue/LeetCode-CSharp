@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Revers
 D:\PersonalProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.dll
 D:\PersonalProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.pdb
+D:\MyProject\LeetCode-CSharp\Reverse String\bin\Debug\netcoreapp3.0\Reverse String.exe
+D:\MyProject\LeetCode-CSharp\Reverse String\bin\Debug\netcoreapp3.0\Reverse String.deps.json
+D:\MyProject\LeetCode-CSharp\Reverse String\bin\Debug\netcoreapp3.0\Reverse String.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Reverse String\bin\Debug\netcoreapp3.0\Reverse String.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Reverse String\bin\Debug\netcoreapp3.0\Reverse String.dll
+D:\MyProject\LeetCode-CSharp\Reverse String\bin\Debug\netcoreapp3.0\Reverse String.pdb
+D:\MyProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.dll
+D:\MyProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.pdb
+D:\MyProject\LeetCode-CSharp\Reverse String\obj\Debug\netcoreapp3.0\Reverse String.genruntimeconfig.cache

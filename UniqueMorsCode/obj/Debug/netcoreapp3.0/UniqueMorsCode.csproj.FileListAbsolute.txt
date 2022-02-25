@@ -8,3 +8,16 @@ D:\PersonalProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\Unique
 D:\PersonalProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.dll
 D:\PersonalProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.pdb
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\bin\Debug\netcoreapp3.0\UniqueMorsCode.exe
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\bin\Debug\netcoreapp3.0\UniqueMorsCode.deps.json
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\bin\Debug\netcoreapp3.0\UniqueMorsCode.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\bin\Debug\netcoreapp3.0\UniqueMorsCode.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\bin\Debug\netcoreapp3.0\UniqueMorsCode.dll
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\bin\Debug\netcoreapp3.0\UniqueMorsCode.pdb
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.dll
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.pdb
+D:\MyProject\LeetCode-CSharp\UniqueMorsCode\obj\Debug\netcoreapp3.0\UniqueMorsCode.genruntimeconfig.cache

@@ -9,3 +9,15 @@ D:\PersonalProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCir
 D:\PersonalProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.dll
 D:\PersonalProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.pdb
 D:\PersonalProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\bin\Debug\netcoreapp3.0\JudgeCirlcle.exe
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\bin\Debug\netcoreapp3.0\JudgeCirlcle.deps.json
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\bin\Debug\netcoreapp3.0\JudgeCirlcle.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\bin\Debug\netcoreapp3.0\JudgeCirlcle.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\bin\Debug\netcoreapp3.0\JudgeCirlcle.dll
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\bin\Debug\netcoreapp3.0\JudgeCirlcle.pdb
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.dll
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.pdb
+D:\MyProject\LeetCode-CSharp\JudgeCirlcle\obj\Debug\netcoreapp3.0\JudgeCirlcle.genruntimeconfig.cache

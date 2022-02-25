@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\Pe
 D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.dll
 D:\PersonalProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.pdb
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.exe
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.deps.json
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.dll
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\bin\Debug\netcoreapp3.0\PeakInexInMountain.pdb
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.dll
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.pdb
+D:\MyProject\LeetCode-CSharp\PeakInexInMountain\obj\Debug\netcoreapp3.0\PeakInexInMountain.genruntimeconfig.cache

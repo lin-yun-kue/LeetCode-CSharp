@@ -8,3 +8,16 @@ D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcorea
 D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.dll
 D:\PersonalProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.pdb
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.exe
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.deps.json
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.dll
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\bin\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.pdb
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.dll
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.pdb
+D:\MyProject\LeetCode-CSharp\N-aryTreePreorderTraversal\obj\Debug\netcoreapp3.0\N-aryTreePreorderTraversal.genruntimeconfig.cache

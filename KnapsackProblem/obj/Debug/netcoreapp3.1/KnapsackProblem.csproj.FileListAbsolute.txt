@@ -1,0 +1,13 @@
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\bin\Debug\netcoreapp3.1\KnapsackProblem.exe
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\bin\Debug\netcoreapp3.1\KnapsackProblem.deps.json
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\bin\Debug\netcoreapp3.1\KnapsackProblem.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\bin\Debug\netcoreapp3.1\KnapsackProblem.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\bin\Debug\netcoreapp3.1\KnapsackProblem.dll
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\bin\Debug\netcoreapp3.1\KnapsackProblem.pdb
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.dll
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.pdb
+D:\MyProject\LeetCode-CSharp\KnapsackProblem\obj\Debug\netcoreapp3.1\KnapsackProblem.genruntimeconfig.cache

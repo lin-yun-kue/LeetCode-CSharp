@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wLDj/gcZRFqV3yG6OdAUPgmPOVak2rUV3o8JUpDFM6bu5SeSyozkJzBhbgLu5uF1E8RZ/rFREYLR6eDN+Ixmrg==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\Convert Binary Number in a Linked List to Integer\\Convert Binary Number in a Linked List to Integer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

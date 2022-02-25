@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPva4NBwI9kd733An1rQtCVlmAWCyE4TUQG2O9BYvBtsMm1SIa8A3zx1s6Av+/aZI87uR8tUIAS6RbfMYJW2/w==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\Palindrome\\Palindrome.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

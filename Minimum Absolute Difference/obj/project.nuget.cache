@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hW84wT2nKnlXWH3wEKg/Meb8WJCq49OA3LP46RID0voNqaa/J4M5r37JGMGONipeINhzjtywPbGcZxvEs8whbQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\Minimum Absolute Difference\\Minimum Absolute Difference.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

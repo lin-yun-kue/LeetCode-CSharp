@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KNhzItyn4GUYkyW33K/rSsBp7CHqqPhID/rfTq1wJ/gFPabw+2OYX7by5YZSNLBRku/Ypp/49IgLxkEQOGm2hg==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\UniqueMorsCode\\UniqueMorsCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2xrT0jb3eRaWwUS0OIE/1M/3vD/X0XqoNf+94/aE67U7smfuPp98HK1cClGjohWRXNKedc3S2QELBvy1jDxW/Q==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\IncreasingOrderSearchTree\\IncreasingOrderSearchTree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

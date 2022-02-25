@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp
 D:\PersonalProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.dll
 D:\PersonalProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.pdb
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\bin\Debug\netcoreapp3.0\Occurrences After Bigram.exe
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\bin\Debug\netcoreapp3.0\Occurrences After Bigram.deps.json
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\bin\Debug\netcoreapp3.0\Occurrences After Bigram.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\bin\Debug\netcoreapp3.0\Occurrences After Bigram.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\bin\Debug\netcoreapp3.0\Occurrences After Bigram.dll
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\bin\Debug\netcoreapp3.0\Occurrences After Bigram.pdb
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.dll
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.pdb
+D:\MyProject\LeetCode-CSharp\Occurrences After Bigram\obj\Debug\netcoreapp3.0\Occurrences After Bigram.genruntimeconfig.cache

@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStrin
 D:\PersonalProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.dll
 D:\PersonalProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.pdb
+D:\MyProject\LeetCode-CSharp\DIStringMatch\bin\Debug\netcoreapp3.0\DIStringMatch.exe
+D:\MyProject\LeetCode-CSharp\DIStringMatch\bin\Debug\netcoreapp3.0\DIStringMatch.deps.json
+D:\MyProject\LeetCode-CSharp\DIStringMatch\bin\Debug\netcoreapp3.0\DIStringMatch.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\DIStringMatch\bin\Debug\netcoreapp3.0\DIStringMatch.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\DIStringMatch\bin\Debug\netcoreapp3.0\DIStringMatch.dll
+D:\MyProject\LeetCode-CSharp\DIStringMatch\bin\Debug\netcoreapp3.0\DIStringMatch.pdb
+D:\MyProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.dll
+D:\MyProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.pdb
+D:\MyProject\LeetCode-CSharp\DIStringMatch\obj\Debug\netcoreapp3.0\DIStringMatch.genruntimeconfig.cache

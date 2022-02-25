@@ -9,3 +9,15 @@ D:\PersonalProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcorea
 D:\PersonalProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.dll
 D:\PersonalProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.pdb
 D:\PersonalProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\bin\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.exe
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\bin\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.deps.json
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\bin\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\bin\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\bin\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.dll
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\bin\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.pdb
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.dll
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.pdb
+D:\MyProject\LeetCode-CSharp\NRepeatedElementIn2NArrary\obj\Debug\netcoreapp3.0\NRepeatedElementIn2NArrary.genruntimeconfig.cache

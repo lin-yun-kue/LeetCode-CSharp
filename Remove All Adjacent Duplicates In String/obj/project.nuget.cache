@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3d2pRSVV3Nukb9gT81eYGCxX71Lt6Oz8Suu7LhYXdl/xoH0I8YXp13Sk/j1PW/EmSpEeJM0ZJG/29A8vtWdl7w==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\Remove All Adjacent Duplicates In String\\Remove All Adjacent Duplicates In String.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

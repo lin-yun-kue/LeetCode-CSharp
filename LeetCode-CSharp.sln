@@ -91,7 +91,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert Binary Number in a 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Leaf-Similar Trees", "Leaf-Similar Trees\Leaf-Similar Trees.csproj", "{1305CB06-5CDE-4663-8666-05462CC60A33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Cells in Distance Order", "Matrix Cells in Distance Order\Matrix Cells in Distance Order.csproj", "{B04F8148-C8A6-4573-BB5E-850482617F31}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix Cells in Distance Order", "Matrix Cells in Distance Order\Matrix Cells in Distance Order.csproj", "{B04F8148-C8A6-4573-BB5E-850482617F31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnapsackProblem", "KnapsackProblem\KnapsackProblem.csproj", "{BC7A080E-FE12-4AD9-AFEA-81F375AE761F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{B04F8148-C8A6-4573-BB5E-850482617F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B04F8148-C8A6-4573-BB5E-850482617F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B04F8148-C8A6-4573-BB5E-850482617F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC7A080E-FE12-4AD9-AFEA-81F375AE761F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC7A080E-FE12-4AD9-AFEA-81F375AE761F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC7A080E-FE12-4AD9-AFEA-81F375AE761F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC7A080E-FE12-4AD9-AFEA-81F375AE761F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,3 +9,16 @@ D:\PersonalProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\Fibon
 D:\PersonalProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.dll
 D:\PersonalProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.pdb
 D:\PersonalProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\bin\Debug\netcoreapp3.0\FibonacciNumber.exe
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\bin\Debug\netcoreapp3.0\FibonacciNumber.deps.json
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\bin\Debug\netcoreapp3.0\FibonacciNumber.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\bin\Debug\netcoreapp3.0\FibonacciNumber.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\bin\Debug\netcoreapp3.0\FibonacciNumber.dll
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\bin\Debug\netcoreapp3.0\FibonacciNumber.pdb
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.dll
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.pdb
+D:\MyProject\LeetCode-CSharp\FibonacciNumber\obj\Debug\netcoreapp3.0\FibonacciNumber.genruntimeconfig.cache

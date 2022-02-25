@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\Flippin
 D:\PersonalProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.dll
 D:\PersonalProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.pdb
+D:\MyProject\LeetCode-CSharp\FlippingImage\bin\Debug\netcoreapp3.0\FlippingImage.exe
+D:\MyProject\LeetCode-CSharp\FlippingImage\bin\Debug\netcoreapp3.0\FlippingImage.deps.json
+D:\MyProject\LeetCode-CSharp\FlippingImage\bin\Debug\netcoreapp3.0\FlippingImage.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\FlippingImage\bin\Debug\netcoreapp3.0\FlippingImage.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\FlippingImage\bin\Debug\netcoreapp3.0\FlippingImage.dll
+D:\MyProject\LeetCode-CSharp\FlippingImage\bin\Debug\netcoreapp3.0\FlippingImage.pdb
+D:\MyProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.dll
+D:\MyProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.pdb
+D:\MyProject\LeetCode-CSharp\FlippingImage\obj\Debug\netcoreapp3.0\FlippingImage.genruntimeconfig.cache

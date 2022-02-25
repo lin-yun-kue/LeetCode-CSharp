@@ -9,3 +9,15 @@ D:\PersonalProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netco
 D:\PersonalProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.dll
 D:\PersonalProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.pdb
 D:\PersonalProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\bin\Debug\netcoreapp3.0\Reverse Words in a String III.exe
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\bin\Debug\netcoreapp3.0\Reverse Words in a String III.deps.json
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\bin\Debug\netcoreapp3.0\Reverse Words in a String III.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\bin\Debug\netcoreapp3.0\Reverse Words in a String III.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\bin\Debug\netcoreapp3.0\Reverse Words in a String III.dll
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\bin\Debug\netcoreapp3.0\Reverse Words in a String III.pdb
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.dll
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.pdb
+D:\MyProject\LeetCode-CSharp\Reverse Words in a String III\obj\Debug\netcoreapp3.0\Reverse Words in a String III.genruntimeconfig.cache

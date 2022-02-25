@@ -8,3 +8,16 @@ D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\Hammi
 D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.dll
 D:\PersonalProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.pdb
+D:\MyProject\LeetCode-CSharp\HammingDistance\bin\Debug\netcoreapp3.0\HammingDistance.exe
+D:\MyProject\LeetCode-CSharp\HammingDistance\bin\Debug\netcoreapp3.0\HammingDistance.deps.json
+D:\MyProject\LeetCode-CSharp\HammingDistance\bin\Debug\netcoreapp3.0\HammingDistance.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\HammingDistance\bin\Debug\netcoreapp3.0\HammingDistance.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\HammingDistance\bin\Debug\netcoreapp3.0\HammingDistance.dll
+D:\MyProject\LeetCode-CSharp\HammingDistance\bin\Debug\netcoreapp3.0\HammingDistance.pdb
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.dll
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.pdb
+D:\MyProject\LeetCode-CSharp\HammingDistance\obj\Debug\netcoreapp3.0\HammingDistance.genruntimeconfig.cache

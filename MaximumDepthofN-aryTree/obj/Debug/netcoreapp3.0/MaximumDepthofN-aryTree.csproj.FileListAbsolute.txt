@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3
 D:\PersonalProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.dll
 D:\PersonalProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.pdb
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\bin\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.exe
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\bin\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.deps.json
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\bin\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\bin\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\bin\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.dll
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\bin\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.pdb
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.dll
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.pdb
+D:\MyProject\LeetCode-CSharp\MaximumDepthofN-aryTree\obj\Debug\netcoreapp3.0\MaximumDepthofN-aryTree.genruntimeconfig.cache

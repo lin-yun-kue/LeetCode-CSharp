@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\U
 D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.dll
 D:\PersonalProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.pdb
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\bin\Debug\netcoreapp3.0\UnivaluedBinaryTree.exe
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\bin\Debug\netcoreapp3.0\UnivaluedBinaryTree.deps.json
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\bin\Debug\netcoreapp3.0\UnivaluedBinaryTree.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\bin\Debug\netcoreapp3.0\UnivaluedBinaryTree.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\bin\Debug\netcoreapp3.0\UnivaluedBinaryTree.dll
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\bin\Debug\netcoreapp3.0\UnivaluedBinaryTree.pdb
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.dll
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.pdb
+D:\MyProject\LeetCode-CSharp\UnivaluedBinaryTree\obj\Debug\netcoreapp3.0\UnivaluedBinaryTree.genruntimeconfig.cache

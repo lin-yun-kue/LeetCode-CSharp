@@ -8,3 +8,15 @@ D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumB
 D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.dll
 D:\PersonalProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.pdb
+D:\MyProject\LeetCode-CSharp\RangeSumBST\bin\Debug\netcoreapp3.0\RangeSumBST.exe
+D:\MyProject\LeetCode-CSharp\RangeSumBST\bin\Debug\netcoreapp3.0\RangeSumBST.deps.json
+D:\MyProject\LeetCode-CSharp\RangeSumBST\bin\Debug\netcoreapp3.0\RangeSumBST.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\RangeSumBST\bin\Debug\netcoreapp3.0\RangeSumBST.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\RangeSumBST\bin\Debug\netcoreapp3.0\RangeSumBST.dll
+D:\MyProject\LeetCode-CSharp\RangeSumBST\bin\Debug\netcoreapp3.0\RangeSumBST.pdb
+D:\MyProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.dll
+D:\MyProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.pdb
+D:\MyProject\LeetCode-CSharp\RangeSumBST\obj\Debug\netcoreapp3.0\RangeSumBST.genruntimeconfig.cache

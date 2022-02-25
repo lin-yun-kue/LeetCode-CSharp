@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "82+du5dKhmT5Q52GETgFbsrSxXlpuKuQ8Z39gK8USGQz9redyl7q9e0pRJZHFDIH1QZe0MU5ygyAX9n7kZj9TQ==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\LeetCode-CSharp\\SortArrayByParityII\\SortArrayByParityII.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\07571.kyle.lin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

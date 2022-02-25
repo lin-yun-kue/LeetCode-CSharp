@@ -9,3 +9,15 @@ D:\PersonalProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Le
 D:\PersonalProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.AssemblyInfo.cs
 D:\PersonalProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.dll
 D:\PersonalProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.pdb
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\bin\Debug\netcoreapp3.0\Leaf-Similar Trees.exe
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\bin\Debug\netcoreapp3.0\Leaf-Similar Trees.deps.json
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\bin\Debug\netcoreapp3.0\Leaf-Similar Trees.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\bin\Debug\netcoreapp3.0\Leaf-Similar Trees.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\bin\Debug\netcoreapp3.0\Leaf-Similar Trees.dll
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\bin\Debug\netcoreapp3.0\Leaf-Similar Trees.pdb
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.dll
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.pdb
+D:\MyProject\LeetCode-CSharp\Leaf-Similar Trees\obj\Debug\netcoreapp3.0\Leaf-Similar Trees.genruntimeconfig.cache

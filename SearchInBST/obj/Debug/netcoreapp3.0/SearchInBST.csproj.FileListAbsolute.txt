@@ -9,3 +9,15 @@ D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInB
 D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.dll
 D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.pdb
 D:\PersonalProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\SearchInBST\bin\Debug\netcoreapp3.0\SearchInBST.exe
+D:\MyProject\LeetCode-CSharp\SearchInBST\bin\Debug\netcoreapp3.0\SearchInBST.deps.json
+D:\MyProject\LeetCode-CSharp\SearchInBST\bin\Debug\netcoreapp3.0\SearchInBST.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\SearchInBST\bin\Debug\netcoreapp3.0\SearchInBST.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\SearchInBST\bin\Debug\netcoreapp3.0\SearchInBST.dll
+D:\MyProject\LeetCode-CSharp\SearchInBST\bin\Debug\netcoreapp3.0\SearchInBST.pdb
+D:\MyProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.dll
+D:\MyProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.pdb
+D:\MyProject\LeetCode-CSharp\SearchInBST\obj\Debug\netcoreapp3.0\SearchInBST.genruntimeconfig.cache
