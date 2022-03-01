@@ -26,9 +26,13 @@ namespace KnapsackProblem
             };
             var totalWeight = 8;
             var solution = new ZeroOneKnapsackProblem(weightMapping, totalWeight);
+            // 0/1 Get Max Value
             //var result = solution.Recursive(weightMapping.Count - 1, totalWeight);
             //var result = solution.Exhaustive();
-            var result = solution.GetCombination(weightMapping.Count - 1, totalWeight);
+
+            // 0/1 Get Max Value item Combination
+            //var result = solution.GetCombination();
+            var result = solution.RecursiveGetCombination(weightMapping.Count - 1, totalWeight);
             solution.DisplayDataTable();
             Console.WriteLine(result);
         }
@@ -51,9 +55,6 @@ namespace KnapsackProblem
 
         private List<(int weight, int val)> Values;
 
-        public NTree<int> Root;
-
-        public NTree<int> Temp;
 
         public ZeroOneKnapsackProblem(Dictionary<int, (int, int)> mapping, int totalWeight)
         {
@@ -62,9 +63,7 @@ namespace KnapsackProblem
             DPTable = new int[mapping.Count, totalWeight + 1];
             Keys = mapping.Keys.ToList();
             Values = mapping.Values.ToList();
-
-            Root = new NTree<int>(-1);
-            Temp = Root;
+            PutTable = new PutLabel[Mapping.Count, TotalWeight + 1];
         }
 
         public int Recursive(int index, int w)
@@ -106,51 +105,103 @@ namespace KnapsackProblem
                     }
                 }
             }
-            return 0;
+            return DPTable[Keys.Count - 1, TotalWeight];
         }
 
 
+        enum PutLabel
+        {
+            Exclue = 0,
+            Include = 1,
+            BothEqual = 2
+        }
        
-        public List<string> GetCombination(int index, int w)
+        PutLabel[,] PutTable;
+        private List<string> Combination = new List<string>();
+        public List<string> GetCombination()
         {
-            Recursive_GetCombination(index, w);
-            return null;
+            var tempCatch = new int[TotalWeight + 1];
+            for (var i = 0; i < Mapping.Count; i++)
+            {
+                for(var j = TotalWeight; j >= Values[i].weight; j-- )
+                {
+                    var include = tempCatch[j - Values[i].weight] + Values[i].val;
+                    var exclude = tempCatch[j];
+                    if (include < exclude)
+                    {
+                        PutTable[i, j] = PutLabel.Exclue;
+                    }
+                    else if (include > exclude)
+                    {
+                        tempCatch[j] = include;
+                        PutTable[i, j] = PutLabel.Include;
+                    }
+                    else if(include == exclude)
+                    {
+                        PutTable[i, j] = PutLabel.BothEqual;
+                    }
+                }
+            }
+
+
+            RecursiveGetCombination(Values.Count - 1, TotalWeight, "");
+            return Combination;
         }
 
-
-        private int Recursive_GetCombination(int index, int w)
+        public List<string> RecursiveGetCombination(int itemIndex, int weight)
         {
+            ResursiveSetPutTable(itemIndex, weight);
+            RecursiveGetCombination(Values.Count - 1, TotalWeight, "");
 
-            if (w < 0) return int.MinValue;
-            if (index < 0) return 0;
-            if (DPTable[index, w] > 0) return DPTable[index, w];
-
-            var nextWeight = w - Values[index].weight;
-            var nextIndex = index - 1;
-
-
-            var contain = Recursive_GetCombination(nextIndex, nextWeight) + Values[index].val;
-            var noContain = Recursive_GetCombination(nextIndex, w);
-            
-
-            //if (contain == noContain)
-            //{
-
-            //}
-
-            if(contain >= noContain)
-            {
-                DPTable[index, w] = contain;
-                var node = new NTree<int>(Values[index].val);
-                Temp.AddChild(node);
-                Temp = node;
-            }
-            else
-            {
-                DPTable[index, w] = noContain;
-            }
-            return DPTable[index, w];
+            return Combination;
         }
+
+        public int ResursiveSetPutTable(int itemIndex, int weight)
+        {
+            if (weight < 0) return int.MinValue;
+            if (itemIndex < 0) return 0;
+
+            var include = ResursiveSetPutTable(itemIndex - 1, weight - Values[itemIndex].weight) + Values[itemIndex].val;
+            var exclude = ResursiveSetPutTable(itemIndex - 1, weight);
+            if(include > exclude)
+            {
+                PutTable[itemIndex, weight] = PutLabel.Include;
+                return include;
+            } else if( include < exclude)
+            {
+                return exclude;
+            } else if(include == exclude)
+            {
+                PutTable[itemIndex, weight] = PutLabel.BothEqual;
+                return include;
+            }
+
+            return default;
+        }
+
+        private void RecursiveGetCombination(int itemIndex, int weight, string roat)
+        {
+            //finish
+            if(itemIndex < 0)
+            {
+                Combination.Add(roat);
+                return;
+            }
+
+            if(PutTable[itemIndex, weight] == PutLabel.Exclue)
+            {
+                RecursiveGetCombination(itemIndex - 1, weight, roat);
+            }else if(PutTable[itemIndex, weight] == PutLabel.Include){
+                RecursiveGetCombination(itemIndex - 1, weight - Values[itemIndex].weight, roat += $"{Values[itemIndex].val} ");
+            }
+            else if (PutTable[itemIndex, weight] == PutLabel.BothEqual)
+            {
+                var addRoat = roat + $"{Values[itemIndex].val} ";
+                RecursiveGetCombination(itemIndex - 1, weight - Values[itemIndex].weight, addRoat);
+                RecursiveGetCombination(itemIndex - 1, weight, roat);
+            }
+        }
+
 
         public void DisplayDataTable()
         {
