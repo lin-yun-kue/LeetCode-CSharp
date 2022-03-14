@@ -118,6 +118,11 @@ namespace KnapsackProblem
        
         PutLabel[,] PutTable;
         private List<string> Combination = new List<string>();
+
+        /// <summary>
+        /// Exhaustive Get Combination
+        /// </summary>
+        /// <returns></returns>
         public List<string> GetCombination()
         {
             var tempCatch = new int[TotalWeight + 1];
@@ -146,6 +151,11 @@ namespace KnapsackProblem
 
             RecursiveGetCombination(Values.Count - 1, TotalWeight, "");
             return Combination;
+        }
+
+        public List<string> SubsetGetCombination()
+        {
+            return default;
         }
 
         public List<string> RecursiveGetCombination(int itemIndex, int weight)

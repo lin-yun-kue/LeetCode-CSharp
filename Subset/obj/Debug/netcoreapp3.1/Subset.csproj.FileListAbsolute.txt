@@ -1,0 +1,13 @@
+D:\MyProject\LeetCode-CSharp\Subset\bin\Debug\netcoreapp3.1\Subset.exe
+D:\MyProject\LeetCode-CSharp\Subset\bin\Debug\netcoreapp3.1\Subset.deps.json
+D:\MyProject\LeetCode-CSharp\Subset\bin\Debug\netcoreapp3.1\Subset.runtimeconfig.json
+D:\MyProject\LeetCode-CSharp\Subset\bin\Debug\netcoreapp3.1\Subset.runtimeconfig.dev.json
+D:\MyProject\LeetCode-CSharp\Subset\bin\Debug\netcoreapp3.1\Subset.dll
+D:\MyProject\LeetCode-CSharp\Subset\bin\Debug\netcoreapp3.1\Subset.pdb
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.csprojAssemblyReference.cache
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.csproj.CoreCompileInputs.cache
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.AssemblyInfoInputs.cache
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.AssemblyInfo.cs
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.dll
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.pdb
+D:\MyProject\LeetCode-CSharp\Subset\obj\Debug\netcoreapp3.1\Subset.genruntimeconfig.cache
