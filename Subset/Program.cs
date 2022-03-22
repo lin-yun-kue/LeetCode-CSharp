@@ -10,10 +10,11 @@ namespace Subset
         {
             //var input = new int[] { 1, 2, 3 };
             //var input = new int[] { 0 };
-            var input = new int[] { 3, 2 ,4, 1 };
+            var input = new int[] { 3, 2, 4, 1 };
             var solution = new Solution();
             //var result = solution.Subsets_Cascade(input);
-            var result = solution.Subsets_Backtrack_v2(input);
+            //var result = solution.Subsets_Backtrack_v2(input);
+            var result = solution.Subsets_Lexicographic(input);
 
             for (var i = 0; i < result.Count; i++)
             {
@@ -68,10 +69,6 @@ namespace Subset
             return result;
         }
 
-
-
-
-
         /// <summary>
         /// backtrace solution
         /// </summary>
@@ -85,6 +82,9 @@ namespace Subset
                 return res;
 
             Backtrack(nums, 0, new List<int>());
+
+            //Array.Sort(nums);
+            //BackTrace(nums, -1, new List<int>());
 
             return res;
         }
@@ -109,6 +109,22 @@ namespace Subset
                 Backtrack(nums, j + 1, cur);
 
                 cur.RemoveAt(cur.Count - 1);
+            }
+        }
+
+        public void BackTrace(int[] nums, int index, List<int> cur)
+        {
+            if (index == nums.Length)
+            {
+                return;
+            }
+            //cur.ForEach(x => Console.Write($"{x }"));
+            //Console.WriteLine();
+            res.Add(cur);
+            for (var i = index + 1; i < nums.Length; i++)
+            {
+                BackTrace(nums, i, new List<int>(cur) { nums[i] });
+
             }
         }
 
@@ -142,5 +158,13 @@ namespace Subset
                 cur.RemoveAt(cur.Count - 1);
             }
         }
+
+
+        public IList<IList<int>> Subsets_Lexicographic(int[] nums)
+        {
+            
+        }
+
+        
     }
 }
